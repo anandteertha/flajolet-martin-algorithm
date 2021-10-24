@@ -1,7 +1,11 @@
-dataStream = 1 3 2 1 2 3 4 3 1 2 3 1
+dataStream = 1 3 2 1 2 3 4 3 1 2 3 1 --- useless
+total hashes = 5
 hash1 = 1 0 256
 hash2 = 2 1 512
 hash3 = 3 2 1024
 hash4 = 4 3 1280
 hash5 = 5 4 1792
+download IP Webcam Pro application in android phone.
+open app, scroll down, -> click on start server..
+below you will get a link on your application (use http).
 video input stream = http://192.168.202.51:8080/shot.jpg
