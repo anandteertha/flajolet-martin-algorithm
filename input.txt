@@ -1,5 +1,7 @@
 dataStream = 1 3 2 1 2 3 4 3 1 2 3 1
-hash1 = 6 1 5
-hash2 = 7 -2 2
-hash3 = 2 2 4
-hash4 = 4 1 5
+hash1 = 1 0 256
+hash2 = 2 1 512
+hash3 = 3 2 1024
+hash4 = 4 3 1280
+hash5 = 5 4 1792
+video input stream = http://192.168.202.51:8080/shot.jpg
